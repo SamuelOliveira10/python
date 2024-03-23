@@ -1,3 +1,3 @@
-celc = float(input('Informe a temperatura em °C: '))
-fahr = celc * 9/5 + 32
-print(f'A temperatura de {celc}°C corresponde a {fahr:.1f}°!')
+cels = float(input('Informe a temperatura em °C: '))
+fahr = cels * 9/5 + 32
+print(f'A temperatura de {cels}°C corresponde a {fahr:.1f}°F')
